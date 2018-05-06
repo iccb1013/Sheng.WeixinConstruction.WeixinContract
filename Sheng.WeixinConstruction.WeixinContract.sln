@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sheng.WeixinConstruction.WeixinContract", "Sheng.WeixinConstruction.WeixinContract\Sheng.WeixinConstruction.WeixinContract.csproj", "{19972C3F-7A6F-46C0-A501-5A89001148E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sheng.Weixin", "Sheng.Weixin\Sheng.Weixin.csproj", "{19972C3F-7A6F-46C0-A501-5A89001148E6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{F791AB8B-BEBB-42AE-B5D3-A85FBAEEA935}"
 EndProject
