@@ -26,7 +26,7 @@ https://github.com/iccb1013/Sheng.WeixinConstruction
 
 
 官网：  
-http://wx.shengxunwei.com/
+https://shengxunwei.com/
 
 详细的博客说明：  
 升讯威微信营销系统开发实践：（1）功能概要与架构设计  
